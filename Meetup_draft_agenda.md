@@ -2,7 +2,7 @@
 
 ## Date and time/ 日時
  - Date: 21 December 2021
- - Time: 9:00 PM – 11:00 PM (JST)
+ - Time: 9:00 PM – 11:00 PM (JST, Tokyo), 7:00 AM - 9:00 AM (EST, New York), 1:00 PM - 3:00 PM (CET, Brindisi) 
 
 ## Location
 Online
