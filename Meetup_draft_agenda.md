@@ -12,7 +12,7 @@ These active partners include Furuhashi Lab. at Aoyama Gakuin University and the
 Because UNVT is scalable from a small portable PC like Raspberry Pi to a large server, various application of UNVT are expected (e.g. like UNVT portable, an application at disaster response). 
 With the aim of expanding the use of UNVT and further developing tools, Furuhashi Lab. with the support from UN Open GIS Initiative, UN Geospatial Information Section, and UN Mappers(tbd), has hold a hackthon starting from 14 December 2021.
 
-We will have a casual meetup to see the work of the hackathon participants and congratulate on their works. The meetup will also provide an opportunity to share ideas and use cases of the UNVT and related open source geospatial tools.
+UNVT community in Japan is happy to have a casual meetup to see the work of the hackathon participants and congratulate on their works. The meetup will also provide an opportunity to share ideas and use cases of the UNVT and related open source geospatial tools.
 
 
 ## Draft Program / Agenda
