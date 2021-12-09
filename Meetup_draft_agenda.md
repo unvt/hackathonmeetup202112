@@ -18,7 +18,7 @@ We will have a casual meetup to see the work of the hackathon participants and c
 ## Draft Program / Agenda
 
 
-Opening (21:00-21:15) (in English)
+Opening (21:00-21:15) (in English)  
 1. Opening remark
 
 2. Congratulatory Remarks 
@@ -26,7 +26,7 @@ Opening (21:00-21:15) (in English)
     - , UN Mappers(TBC)
 
 
-Presentations  (in Japanese)
+Presentations  (in Japanese)  
 3. Presentations of the efforts by the Hackathon participants
     - Team A
     - Team B
