@@ -26,14 +26,17 @@ UNVT community in Japan is happy to have a casual meetup to see the work of the 
 
 2. Congratulatory Remarks 
     - Mr. Timur Obukhov, UN Geospatial Information Section
-    - , UN Mappers(TBC)
+    - (TBD) UN Mappers
 
 **Presentation Session (21:15-22:45)  (in Japanese)**  
 
-3. Presentations of the efforts by the Hackathon participants
-    - Team A
-    - Team B
-    - etc
+3. Presentations of the efforts by the Hackathon participants (The order will be flexible)
+    - YourhMapperAGU Team
+    - Location game Team
+    - Designing Team
+    - Drone Team
+    - V&F Team
+    - Mentor Team
 
 4. Other topics
     - ABC
