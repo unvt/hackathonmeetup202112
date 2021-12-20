@@ -23,10 +23,11 @@ UNVT community in Japan is happy to have a casual meetup to see the work of the 
 **Opening Session (21:00-21:15) (in English)**  
 
 1. Opening remark
+    - Prof. Taichi Furuhashi
 
 2. Congratulatory Remarks 
     - Mr. Timur Obukhov, UN Geospatial Information Section
-    - (TBD) UN Mappers
+    - Q and A (if any)
 
 **Presentation Session (21:15-22:45)  (in Japanese)**  
 
