@@ -39,10 +39,7 @@ UNVT community in Japan is happy to have a casual meetup to see the work of the 
     - Mentor Team
 
 4. Other topics
-    - ABC
-    - XXX by Mr. Taro Ubukawa(tbd), UNGIS
-    - XXX by Mr. Gakumin Kato(tbd), UNGIS
-    - Any other (This is a casual meeting. Any casual report/annoucement is welcomed.)
+    - Any activity report from the participants (This is a casual meeting. Any casual report/annoucement is welcomed.)
 
 **Closing Session (22:45-23:00)  (in Japanese)**  
 
